@@ -25,3 +25,4 @@ else if (pregunta == "multiplicar"){
     alert("la respuesta es " + (numero1 / numero2))
 
 }
+

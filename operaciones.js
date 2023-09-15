@@ -24,6 +24,10 @@ else if (pregunta == "3"){
 
     alert("la respuesta es " + (numero1 / numero2))
 
+} else{
+
+alert("no elejiste adecuadamente")
+
 }
 
 

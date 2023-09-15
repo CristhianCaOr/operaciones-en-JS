@@ -57,4 +57,20 @@ top: 9px;
     top: 30px;
    left: 9px; 
     
-    }
+}
+
+.parce{
+font-family: 'Courier New', Courier, monospace;
+color: red;
+}
+
+.box-2 {
+    height: 90px;
+    width: 45%;
+    background-color: #1A2832;
+    border-radius: 3px;
+    position: relative;
+    left: 6px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
